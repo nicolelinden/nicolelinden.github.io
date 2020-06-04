@@ -54,9 +54,9 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - https://github.com/nicolelinden/Covid19-Project
- - https://github.com/nicolelinden/Implementing-a-Perceptron-Algorithm
- - https://github.com/nicolelinden/Implementing-Multidimensional-Scaling
+ - nicolelinden/Covid19-Project
+ - nicolelinden/Implementing-a-Perceptron-Algorithm
+ - nicolelinden/Implementing-Multidimensional-Scaling
  
 
 
